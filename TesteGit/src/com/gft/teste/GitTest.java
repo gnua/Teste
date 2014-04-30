@@ -6,7 +6,7 @@ public class GitTest {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("GIT IS GOOD!");
+		System.out.println("GIT IS NICE!");
 		
 	}
 
